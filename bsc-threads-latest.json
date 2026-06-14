@@ -1,6 +1,6 @@
 {
-  "sync_time": "2026-06-14T16:38:32.713Z",
-  "sync_time_local": "2026-06-15 00:38:32",
+  "sync_time": "2026-06-14T16:38:58.533Z",
+  "sync_time_local": "2026-06-15 00:38:58",
   "posts": [
     {
       "timestamp": "2026-06-13T15:39:53+0000",
@@ -1845,13 +1845,6 @@
   ],
   "recent_sync_log": [
     {
-      "timestamp": "2026-06-08T19:50:00.305Z",
-      "action": "full_sync",
-      "status": "success",
-      "message": "同步 100 篇貼文，耗時 87 秒",
-      "suspect_count": 0
-    },
-    {
       "timestamp": "2026-06-09T19:50:50.013Z",
       "action": "full_sync",
       "status": "success",
@@ -1912,6 +1905,13 @@
       "action": "retry_partial",
       "status": "success",
       "message": "重抓 2 篇，恢復 0，剩 2",
+      "suspect_count": 2
+    },
+    {
+      "timestamp": "2026-06-14T16:38:35.376Z",
+      "action": "full_sync",
+      "status": "partial_sync_warning",
+      "message": "同步 100 篇貼文，耗時 85 秒，Repo 已更新",
       "suspect_count": 2
     }
   ]
