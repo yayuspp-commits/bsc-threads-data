@@ -1,20 +1,65 @@
 {
-  "sync_time": "2026-06-28T19:01:03.456Z",
-  "sync_time_local": "2026-06-29 03:01:03",
+  "sync_time": "2026-06-29T19:01:12.305Z",
+  "sync_time_local": "2026-06-30 03:01:12",
   "posts": [
+    {
+      "timestamp": "2026-06-29T18:39:47+0000",
+      "post_id": "18109760375300008",
+      "media_type": "TEXT_POST",
+      "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DaLiArnD35t",
+      "text": "這個周末加上周一,都在建立AI Agents \n\n越做越上手\n\n還順便做了公司出貨查詢面板\n\n很快的,原本只有兩個AI 員工, 明天大概就會弄到四個了...\n\n現在問題是要如何讓他們互相溝通.聯繫... \n\n每天都有新事物可以學習改進, 真是令人愉快\n\n國外Claude已經有Business Claude package, 在丹麥一個人EUR90\n\n說真的,我覺得在我們這種小公司來說, 其實也蠻划算的\n\n比請助理便宜...",
+      "views": 0,
+      "likes": 0,
+      "replies": 0,
+      "reposts": 0,
+      "quotes": 0,
+      "engagement_rate": 0,
+      "last_synced": "2026-06-29T19:00:14.542Z",
+      "is_suspect": null
+    },
+    {
+      "timestamp": "2026-06-29T11:09:18+0000",
+      "post_id": "18067096481477956",
+      "media_type": "TEXT_POST",
+      "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DaKudRPiQ8R",
+      "text": "我問我先生, 如果我爸走了之後的一個多月,我感到的是放鬆\n\n會很不孝嗎? \n\n他說了一句很有哲理的話:\n\n所有的感受都是真實的,沒有對錯\n\n你要是為了感到放鬆而覺得自己不孝\n\n那是因為你被傳統觀念綁架了",
+      "views": 367,
+      "likes": 0,
+      "replies": 4,
+      "reposts": 0,
+      "quotes": 0,
+      "engagement_rate": 1.09,
+      "last_synced": "2026-06-29T19:00:14.542Z",
+      "is_suspect": null
+    },
+    {
+      "timestamp": "2026-06-29T11:04:54+0000",
+      "post_id": "18400333348080188",
+      "media_type": "TEXT_POST",
+      "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DaKt9HXiYFe",
+      "text": "之前一直嘗試著用AI Agent, 一直到昨天才真正的了解到要如何使用\n\n一開始設一個財務的AI Agent, 然後設了一個業務助理, 現在發現業務助理工作過於繁複, 又設了一個生產排程AI Agent \n\n果然任何事情都是要邊做邊學阿\n\n另外很推薦雷蒙三十的迷你課, 他的想法: 把課程餵給AI。\n\n從那個為基礎, 再往下自己發展, 果然快速不少\n\n另外,電腦架構還是有差\n\nARM架構的沒有太好用...",
+      "views": 264,
+      "likes": 0,
+      "replies": 0,
+      "reposts": 0,
+      "quotes": 0,
+      "engagement_rate": 0,
+      "last_synced": "2026-06-29T19:00:14.542Z",
+      "is_suspect": null
+    },
     {
       "timestamp": "2026-06-28T05:16:14+0000",
       "post_id": "18127078363653744",
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DaHhQg4Cajs",
       "text": "爸爸生病住院到過世\n\n很快,不過三個月的時間, 在我們意想不到的時候,走了\n\n現在過世剛好滿一個月, \n\n辦完告別式, 除籍, 繼承等事項\n\n我的生活又慢慢的回復到正軌\n\n跟Thread上很多人不一樣, 我已經不覺得哀傷\n\n畢竟五十年的父女關係中, 更多的是控制, 批判\n\n無論我如何嘗試著說服自己說, 這是父親另外一種愛的表示\n\n但也改變不了他對我們長久以來冷暴力造成的傷害\n\n偶爾想到他, 心裏只有淡淡的憂傷\n\n憂傷的不是他離開了我們\n\n而是知道他始終沒有得到他最想要的東西---被人記住 \n\n他一輩子想要成為大家仰望的太陽, 但是卻活成了驕縱任性,超級控制慾, 卻又扛不起責任的人",
-      "views": 418,
+      "views": 1120,
       "likes": 1,
-      "replies": 0,
+      "replies": 1,
       "reposts": 0,
-      "quotes": 0,
-      "engagement_rate": 0.24,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "quotes": 1,
+      "engagement_rate": 0.27,
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -23,13 +68,13 @@
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DaHgpBiiYnT",
       "text": "極簡生活不是虐待自己\n\n是讓自己的身心進入到一個不需要過多物品跟慾望的心流中\n\n如保養這件事情, 我在家裡的保養品減到最少,因為不需要在臉上塗一堆保養品, 昂貴又無效\n\n寧可把錢從保養品上省一點下來\n\n定期去按摩,做臉部SPA \n\n(但是我不做醫美)",
-      "views": 247,
+      "views": 270,
       "likes": 0,
       "replies": 0,
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -38,13 +83,13 @@
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DaGWlzvj8lj",
       "text": "感謝金曲獎,讓我知道漂流出口這個已經成立15年的原住民樂團\n\n在Spotify 上找了他們的音樂來聽,真的很棒\n\n這幾年來在一些新生代,多元文化衝擊,以及擁有自由創作的土壤下\n\n台灣音樂是越來越多元,也越來越有深度跟自己的面貌\n\n完全無關: 我也很愛吉那罐子,雖然我完全不會講客家話",
-      "views": 784,
+      "views": 800,
       "likes": 2,
       "replies": 0,
       "reposts": 2,
       "quotes": 0,
-      "engagement_rate": 0.51,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "engagement_rate": 0.5,
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -53,13 +98,13 @@
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DaAY96uCRjY",
       "text": "今天下午的運氣蠻好的\n\n在臺中跟人家約喝咖啡，出門的時候，特別拿一隻很大的雨傘，結果外面的傾盆大雨居然停了。\n\n喝咖啡中，外面又開始下起大雨。等到談完走出門，發現雨又停了，跳上捷運坐回家，一滴雨都沒淋到，我覺得運氣真是好到爆！",
-      "views": 250,
+      "views": 252,
       "likes": 0,
       "replies": 0,
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -68,13 +113,13 @@
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DaADXbliaE2",
       "text": "IBKR 現在可以直接連到Claude, ChatGPT了！\n\n這樣review帳戶績效超快的",
-      "views": 1709,
+      "views": 1710,
       "likes": 1,
       "replies": 1,
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.12,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -83,13 +128,13 @@
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DZ-q7w2D7Bi",
       "text": "那年跟我研究所的好友都過得很差\n\n她坐在我對面,講起「一命、二運、三風水、四積陰德、五讀書」\n\n講完她說:「我們又沒命又沒運,風水也不會看,那就讀書吧。」\n\n我當時笑了。\n因為這句話聽起來像認輸,其實是她想到的、唯一還能自己決定的事。\n\n命跟運,生下來就配好了,改不動。風水我也不信我搬個家就能翻身。\n\n但讀書不一樣。讀書是少數你今天決定做、明天就真的多懂一點的事。\n\n積陰德也是。對誰好一點、少坑誰一次,這個我說了算。\n\n剩下那三樣,從來不歸我管。\n\n她那句話我記到現在。\n\n沒命沒運的人,把力氣花在自己還能動的兩格上就好\n\n即使有人看我的命盤，說我並不是一個命好的人，而是個勞碌命，\n\n但我也活出了我自己。",
-      "views": 222,
+      "views": 223,
       "likes": 0,
       "replies": 0,
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -98,14 +143,14 @@
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DZ5REGfCTjh",
       "text": "金車的柏克金科隆啤酒 超好喝",
-      "views": 1753,
-      "likes": 0,
+      "views": 1755,
+      "likes": 7,
       "replies": 2,
       "reposts": 0,
       "quotes": 0,
-      "engagement_rate": 0.11,
-      "last_synced": "2026-06-28T19:00:13.840Z",
-      "is_suspect": "partial_06-29"
+      "engagement_rate": 0.51,
+      "last_synced": "2026-06-29T19:00:14.542Z",
+      "is_suspect": null
     },
     {
       "timestamp": "2026-06-20T15:55:00+0000",
@@ -113,13 +158,13 @@
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DZ0D_-sCTfs",
       "text": "爸爸離開已經一個月了\n\n朋友約我出來喝咖啡，問我還好嗎？\n\n我想了想，我說，說起來好像很不孝\n\n我現在覺得有點relief\n\n之前一路看著他從健康到離開，我是很難過的\n\n我也是努力的陪伴他，希望他能陪我們久一點\n\n但是在整個處理告別式，到整理遺物的過程\n\n我回顧整個過程，我覺得我沒有遺憾\n\n在照顧的過程中，我跟他把該說的話，該和解的事，都說了\n\n我也盡我最大努力陪伴著他到最後\n\n他走了之後，我負責整個告別式，用我理解他希望的方式辦理\n\n我有個感覺：我們緣分盡了，也沒有遺憾了\n\n這樣講好像很不孝，因為我沒跟我姐一樣\n\n在人前哭到呼天喊地\n\n(在人後馬上跟媽媽要錢)\n\n把功勞都攬在身上\n (告別式根本不是她處理，她原本只想草草了事，用最便宜的規格，還謊稱我爸不想讓大知道他離開）\n\n我只覺得，結束了。我們父女緣盡了\n\n也許我會想起他，也許我不會\n\n但我知道憂傷後， 我感到解脫",
-      "views": 911,
+      "views": 912,
       "likes": 1,
       "replies": 8,
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.99,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -128,13 +173,13 @@
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DZxwxn9D7FY",
       "text": "可愛的狗狗果然是最佳的情緒支持動物！\n\n我把狗狗從臺中帶回臺北\n\n原本我媽媽很嫌棄地跟我說，千萬不可以把狗放在家裡面。\n\n結果呢，我把我們家兩隻笨狐狸犬帶回來的時候\n\n一開始其中一隻非常不給面子，馬上就隨便尿了一趴，似乎在佔地盤\n\n正當我心想「糟了，我媽應該會罵我」的時候，\n\n狗狗跳到沙發上，想要去蹭正在看書的媽媽\n\n非常撒嬌地趴在媽媽的膝蓋上\n\n我媽媽語氣溫和地問牠：「你也要看書嗎？你又不識字。」\n\n狗狗就乖乖地趴在我媽媽的膝蓋上陪她看書\n\n可愛的狗狗也融化了媽媽\n\n媽媽跟我說:  好，牠們可以在家裡面\n\n媽媽晚上睡覺之前，還特別笑笑地跟兩隻狗狗說晚安\n\n果然，可愛的狗狗就是最佳的情緒支持動物\n\n但是媽媽還是不希望狗狗舔她",
-      "views": 336,
+      "views": 337,
       "likes": 0,
       "replies": 0,
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -143,14 +188,14 @@
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DZtZr5qiZ1x",
       "text": "問個蠢問題：念經一定要坐著念，能夠躺著念嗎？",
-      "views": 17825,
+      "views": 17828,
       "likes": 1,
       "replies": 46,
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.26,
-      "last_synced": "2026-06-28T19:00:13.840Z",
-      "is_suspect": "partial_06-29"
+      "last_synced": "2026-06-29T19:00:14.542Z",
+      "is_suspect": "partial_06-30"
     },
     {
       "timestamp": "2026-06-16T16:47:04+0000",
@@ -158,13 +203,13 @@
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DZp2x0yicrW",
       "text": "爸爸過世那一天，一早被醫院通知病危，我們趕去醫院\n\n一些親戚也趕過來看他\n\n但是他最愛的孫子們還在臺中，我趕快叫孩子們上來。\n\n那時候看到我爸爸的血壓一直往下掉，心跳也開始變得緩慢\n\n我覺得我好像在跟時間賽跑，因為我知道我爸爸有多疼孫子們\n\n終於在中午的時候，他們到了\n\n這時候我爸爸原來因為水腫而閉不起來的眼睛，聽到孫子的聲音的時候，也慢慢地閉了起來。\n\n我想，人的聽覺應該真的是在最後一刻才喪失的吧\n\n對於爸爸的走，我覺得最後沒有任何遺憾\n\n在他生病的時候我陪著他，孫子也陪著他。\n\n最後一刻，我們是握著他的手，看著他的心跳歸零\n\n而且在病房的時候，我跟我父親針對一些以前的誤會，我們也和解了\n\n我覺得我沒有什麼遺憾了\n\n這樣聽起來好像很不孝.....",
-      "views": 849,
+      "views": 851,
       "likes": 24,
       "replies": 3,
       "reposts": 1,
       "quotes": 0,
-      "engagement_rate": 3.3,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "engagement_rate": 3.29,
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -179,7 +224,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.58,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -194,7 +239,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.19,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -203,14 +248,14 @@
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DZolNgBCY9e",
       "text": "最近身邊的人一個接一個得癌症...",
-      "views": 14081,
+      "views": 14109,
       "likes": 3,
       "replies": 28,
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.22,
-      "last_synced": "2026-06-28T19:00:13.840Z",
-      "is_suspect": "partial_06-29"
+      "last_synced": "2026-06-29T19:00:14.542Z",
+      "is_suspect": "partial_06-30"
     },
     {
       "timestamp": "2026-06-15T15:47:26+0000",
@@ -224,7 +269,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.35,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -233,13 +278,13 @@
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DZiAtFBiXCb",
       "text": "頭七那天,要先擲筊問:爸爸在嗎？\n\n（晚上九點到十一點）\n\n按規矩長女先擲。\n大姐擲了兩次,沒杯。\n二姐擲了兩次,沒杯。\n換我\n一次\n聖杯\n\n二姐臉色當下就變了\n在親戚前，她都自認為是爸爸最疼愛的女兒\n\n十一點了，法事即將結束時\n\n要再擲一次,問爸爸可不可以收工\n\n大姐擲兩次,沒杯\n\n二姐擲第一次,沒杯\n\n第二次,還是沒杯\n\n她抬起頭用夾子音說：爸爸是希望我們留久一點,在這邊陪他\n\n師姐愣住,小聲說:「這個是有時間的⋯⋯」\n\n二姐還是不肯把筊給我\n\n旁邊的姑姑開口:「給妹妹試試看。」\n我擲了一次：聖杯\n\n幾天後,二姐還在跟我說:\n\n「我那天有擲到聖杯,只是我問的是不一樣的問題。」\n\n我先生那天站在後面，他什麼都看到了\n\n我很委婉的跟她說\n\n你不應該問是否要爸爸留久一點，因為我們希望亡者好走\n\n當然她已經陷在她自己的敘事裡，出不去了",
-      "views": 28465,
+      "views": 28469,
       "likes": 317,
       "replies": 7,
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 1.14,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -248,13 +293,13 @@
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DZWAxMEH9ic",
       "text": "加油",
-      "views": 345,
+      "views": 346,
       "likes": 6,
       "replies": 0,
       "reposts": 0,
       "quotes": 0,
-      "engagement_rate": 1.74,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "engagement_rate": 1.73,
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -269,7 +314,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 1.31,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -278,13 +323,13 @@
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DZVLr5sCe3G",
       "text": "朋友介紹我念《摩利支天菩薩陀羅尼經》\n\n我嘗試著唸了幾個月，雖然不是每天念\n\n但可能是心理作用吧，好像有些事情也慢慢地好起來了\n\n今天跟另外一個號稱有感應的朋友聊到這件事。\n\n我跟他提了這部經書，他說難怪他感覺我最近有被守護着\n\n就算他說的不一定是真話，但我聽了還是覺得還蠻高興的。",
-      "views": 998,
+      "views": 999,
       "likes": 9,
       "replies": 3,
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 1.2,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -299,7 +344,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.51,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -314,7 +359,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 3.59,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -329,7 +374,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 3.19,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -344,7 +389,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 1.18,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -359,7 +404,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 2.3,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -368,13 +413,13 @@
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DZNEwS6iQoz",
       "text": "開會的時候,我常常是那個把問題講出來的人\n\n哪裡的決策有漏洞,哪裡的數字對不上,我就直接說\n\n我發現,讓那些長輩最下不了台的,不是我說錯了\n\n是我說對了\n\n而且是一個女的,當著一桌人的面,說對了\n\n那一刻他們臉上的表情,我太熟悉了\n我伯伯就是這樣討厭我的\n\n不是因為錢,我們之間沒有財產問題\n\n純粹是,我不照他的意思,而且我是對的\n\n這種討厭,他維持了一輩子\n我都安慰著我自己: 德川家康說,杜鵑不啼就等牠啼\n\n他會老, 我熬得贏他\n\n最近我送走我爸\n\n我跟我爸最後那幾個月,關係也壞到底\n\n他也是用所剩不多的時間,拿來討厭我\n\n然後他走了\n\n走之前, 他才後悔他當時那麼跟我計較\n他囑咐我不要衝, 但是以後以我為中心\n之後就離開我們了\n\n什麼都沒帶走\n\n那時候我才想——\n對一個晚輩擺臉色、放不下身段、把意見不同當成被冒犯,\n這些情緒,是這些長輩生命裡最貴的一筆開銷\n\n因為再怎麼算,先把時間用完的,都是他們\n\n他們把剩下不多的力氣,拿去恨一個機率上會活得比他們久的人\n\n光是那種厭惡的情緒,本身就是一個昂貴的成本, 也是一個毒藥\n\n我都很想跟固執的老人說: 放下吧.... 你的時間才是最貴的",
-      "views": 525,
+      "views": 526,
       "likes": 35,
       "replies": 1,
       "reposts": 2,
       "quotes": 0,
-      "engagement_rate": 7.24,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "engagement_rate": 7.22,
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -389,7 +434,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 1.58,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -404,7 +449,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 1.38,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -419,7 +464,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 2.65,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -429,12 +474,12 @@
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DZDOkebifaV",
       "text": "真的。",
       "views": 346,
-      "likes": 5,
+      "likes": 6,
       "replies": 0,
       "reposts": 0,
       "quotes": 0,
-      "engagement_rate": 1.45,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "engagement_rate": 1.73,
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -443,13 +488,13 @@
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DY-9osviUDW",
       "text": "剛剛一早試了這個Prompt\n\n用了Claude and ChataGPT\n\n非常有建設性\n\n很值得給讓自己校準用",
-      "views": 442,
+      "views": 443,
       "likes": 0,
       "replies": 0,
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -464,7 +509,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 2.07,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -479,7 +524,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 2.45,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -494,7 +539,7 @@
       "reposts": 0,
       "quotes": 1,
       "engagement_rate": 1.06,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -504,12 +549,12 @@
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DY2UGv1CRIm",
       "text": "醫院打電話來的時候，我正在試著讓自己冷靜。\n\n他們說，爸爸的狀況不好了，我們要開始準備道別。\n\n那一刻我才發現，原來「沒有爸爸也沒關係」這句話，我講了很多年，但不代表真的沒事。\n\n爸爸進 ICU 之後，我其實沒有太多機會單獨跟他相處，因為家產的關係, 姊姊一直很防著我跟他相處\n\n有幾天他還能寫字的時候，只有我跟他，看著他一筆一畫寫下來：\n\n「妳最像我。要以妳為中心。不要衝。」\n\n我看著那幾個字，眼淚就停不下來。\n\n我一直以為，我跟爸爸之間有太多東西早就壞掉了。\n\n缺席的歲月、說不出口的怨、那些沒被好好處理過的傷。\n\n我以為我習慣生命裡沒有一個完整的爸爸。\n\n可是到真的要失去他的時候，才發現，事情不是這樣。\n\n從三月到現在，不過三個月。\n\n他的狀況像蹺蹺板一樣，時好時壞。\n\n原本週六還能跟孫子逗笑，到了週日卻急轉直下。\n\n今天, 醫生說他病危。\n\n我一直覺得人生有些事情，是慢慢發生的。\n\n可是原來道別不是\n\n它有時候是突然被丟到你面前，要你立刻學會接受。\n\n而我還沒有準備好",
       "views": 716,
-      "likes": 31,
+      "likes": 39,
       "replies": 6,
       "reposts": 0,
       "quotes": 0,
-      "engagement_rate": 5.17,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "engagement_rate": 6.28,
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -524,7 +569,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 6.04,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -539,7 +584,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 1.58,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -554,7 +599,7 @@
       "reposts": 0,
       "quotes": 1,
       "engagement_rate": 0.32,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -569,7 +614,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 5.1,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -584,7 +629,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.25,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -599,7 +644,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 1.39,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -614,7 +659,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 3.42,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -629,7 +674,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 2.94,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -644,7 +689,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 2.14,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -659,7 +704,7 @@
       "reposts": 2,
       "quotes": 0,
       "engagement_rate": 8.36,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -674,7 +719,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -689,7 +734,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 4.84,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -704,7 +749,7 @@
       "reposts": 0,
       "quotes": 2,
       "engagement_rate": 4.16,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -719,7 +764,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 6.38,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -734,7 +779,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 10.7,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -743,13 +788,13 @@
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DYM4q6uCcyK",
       "text": "爸爸雖然還在加護病房\n沒辦法說話，但是已經能寫字了\n前幾天清醒過來，他在白板上寫:\n\n\"今天幾月幾號?\"\n\"台灣獨立了嗎?\"\n\"有改年號嗎?\"\n\"現在是民國幾年?\"\n\"外面有世界大戰嗎?\"\n\n今天他在白板上又寫:\n\n\"川習會??\" \n\n臨走前我說\n\n\"你要加油，11 月投票, 我們需要你的一票\" \n\n他含著呼吸管點了點頭",
-      "views": 34475,
+      "views": 34476,
       "likes": 2615,
       "replies": 176,
       "reposts": 24,
       "quotes": 2,
       "engagement_rate": 8.17,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -764,7 +809,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.62,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -779,7 +824,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.88,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -794,7 +839,7 @@
       "reposts": 0,
       "quotes": 1,
       "engagement_rate": 1.38,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -809,7 +854,7 @@
       "reposts": 1,
       "quotes": 0,
       "engagement_rate": 1.62,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -824,7 +869,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.52,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -839,7 +884,7 @@
       "reposts": 1,
       "quotes": 1,
       "engagement_rate": 2.8,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -854,7 +899,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.87,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -869,7 +914,7 @@
       "reposts": 2,
       "quotes": 0,
       "engagement_rate": 5.21,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -884,7 +929,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.44,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -899,7 +944,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 3.76,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -914,7 +959,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 1.03,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -929,7 +974,7 @@
       "reposts": 0,
       "quotes": 1,
       "engagement_rate": 1.94,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -944,7 +989,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 1.4,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -959,7 +1004,7 @@
       "reposts": 1,
       "quotes": 0,
       "engagement_rate": 2.47,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -974,7 +1019,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 4.85,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -989,7 +1034,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.11,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1004,7 +1049,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 3.07,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1019,7 +1064,7 @@
       "reposts": 5,
       "quotes": 0,
       "engagement_rate": 7.76,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1034,7 +1079,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 4.85,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1049,7 +1094,7 @@
       "reposts": 1,
       "quotes": 1,
       "engagement_rate": 3.53,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1064,7 +1109,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.48,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1079,7 +1124,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 6.12,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1094,7 +1139,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.5,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1109,7 +1154,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 2.4,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1124,7 +1169,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 4.06,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1139,7 +1184,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 8.05,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1154,7 +1199,7 @@
       "reposts": 3,
       "quotes": 0,
       "engagement_rate": 7.4,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1169,7 +1214,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 2.29,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1179,12 +1224,12 @@
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DXjtmTPCRUe",
       "text": "因為我都是週末或假期來醫院陪病\n\n所以醫生不太常看到我\n\n昨天周五看到我，問了我，我是誰？\n我說我是他女兒\n\n可能因為我跟我姐長得完全不一樣，醫生有點困惑\n\n他問我，我是姐姐嗎？\n\n我說......我是妹妹......你上次碰到的是我兒子\n（瘋狂暗示因為我有小孩所以看起來比較老）\n\n現場有點小小尷尬，因為護理師還在震驚中\n\n我說：沒關係，一開始還有護理師以為我是看護",
       "views": 1187,
-      "likes": 19,
+      "likes": 20,
       "replies": 1,
       "reposts": 0,
       "quotes": 0,
-      "engagement_rate": 1.68,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "engagement_rate": 1.77,
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1199,7 +1244,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1214,7 +1259,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.96,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1229,7 +1274,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.88,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1244,7 +1289,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 1.28,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1259,7 +1304,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 1.99,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1274,7 +1319,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 1.76,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1289,7 +1334,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 1.69,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1298,13 +1343,13 @@
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DXVNHF3gXbD",
       "text": "坐計程車時，司機突然問我，那個國家治安最好\n\n我說台灣吧\n\n他說，錯，是中國..\n\n他說那邊都被監視，所以治安很好沒有搶劫\n\n.........",
-      "views": 28482,
+      "views": 28484,
       "likes": 723,
       "replies": 260,
       "reposts": 4,
       "quotes": 1,
       "engagement_rate": 3.47,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1319,7 +1364,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 2.49,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1334,7 +1379,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.24,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1349,7 +1394,7 @@
       "reposts": 1,
       "quotes": 0,
       "engagement_rate": 1.2,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1364,7 +1409,7 @@
       "reposts": 2,
       "quotes": 0,
       "engagement_rate": 1.64,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1373,13 +1418,13 @@
       "media_type": "TEXT_POST",
       "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DXR5vG5lJbE",
       "text": "朋友用Mac 跑Claude,我用Windows Surface\n\n有時候他在跟我說Claude超棒時候，我的感受卻不一樣\n\n譬如，我跟他都是Claude Max, 但是我沒有Mircosoft 365 office connector \n\n我也一直沒辦法連上設為遠端硬碟的Google Drive\n\n有時Claude 可以讀excel, 但是遇到存在Google Drive 就很多限制\n\n難道是Windows Surface （arm 架構）跟Mac差這麼多？\n\n有人跟我有一樣的困擾嗎？",
-      "views": 1756,
+      "views": 1757,
       "likes": 6,
       "replies": 2,
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.46,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1394,7 +1439,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 0.92,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1409,7 +1454,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 1.21,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1424,7 +1469,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 1.48,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1439,7 +1484,7 @@
       "reposts": 0,
       "quotes": 0,
       "engagement_rate": 2.28,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     },
     {
@@ -1454,66 +1499,11 @@
       "reposts": 1,
       "quotes": 0,
       "engagement_rate": 2.56,
-      "last_synced": "2026-06-28T19:00:13.840Z",
-      "is_suspect": null
-    },
-    {
-      "timestamp": "2026-04-12T15:40:55+0000",
-      "post_id": "18005613389883658",
-      "media_type": "TEXT_POST",
-      "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DXCXibziRo4",
-      "text": "要能真正理解AI並落地\n\n還是自己動手做最直接\n\n與到問題，不是問AI, 就是上網看 youtube\n\n但是自己不開始動手做，永遠學不會",
-      "views": 398,
-      "likes": 5,
-      "replies": 0,
-      "reposts": 0,
-      "quotes": 0,
-      "engagement_rate": 1.26,
-      "last_synced": "2026-06-28T19:00:13.840Z",
-      "is_suspect": null
-    },
-    {
-      "timestamp": "2026-04-12T14:03:11+0000",
-      "post_id": "17966176937902170",
-      "media_type": "TEXT_POST",
-      "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DXCMWmFiWQP",
-      "text": "去醫院照顧癌末的父親，感覺又重新認識他\n\n他絕對不是個好爸爸，欠債，外遇，長期不在家，精神霸凌我媽媽，常常插手我們人生，甚至在姐妹間製造矛盾，覺得全世界都要圍著他轉...種種，讓我有段時間跟他斷了往來\n\n不是沒試著跟他接近，但是總是會讓自己受傷\n\n我一直知道他是個自私的父親\n\n但是這段時間去照顧他，也感受到他那說不出口的父愛\n\n怕我太累 ，他的方式是把我做的事批評到一文不值，跟我說專心跟他做股票，不要那麼累\n\n要我早點睡，一開始一直碎碎念，念到我受不了趕緊睡\n\n知道我可能睡不著，就自己帶上眼罩，留着燈怕我眼睛不好\n\n知道我不是很會照顧人，什麼事都叫外傭做，不讓我動手\n\n一直叫我做計程車不要搭公車\n\n也許他只是需要陪伴\n\n但是很抱歉，爸，你有一個事業心很強的女兒\n\n過往的五十年，我沒有感受到他對我任何關心\n\n但是在可能是他人生尾端，從許多很小的事，也感受到那麼一點點父親的關懷\n\n也是另一種和解吧",
-      "views": 397,
-      "likes": 22,
-      "replies": 0,
-      "reposts": 0,
-      "quotes": 0,
-      "engagement_rate": 5.54,
-      "last_synced": "2026-06-28T19:00:13.840Z",
-      "is_suspect": null
-    },
-    {
-      "timestamp": "2026-04-12T13:47:24+0000",
-      "post_id": "18106999579910566",
-      "media_type": "TEXT_POST",
-      "permalink": "https://www.threads.com/@blacksheepsecretclub/post/DXCKjAqieCp",
-      "text": "我覺得我自己蠻賤的，我碰到覺得文案有趣的ai 課程都貼到CLAUDE上叫他手把手把我教到會\n\n除了周映君老師的課..",
-      "views": 569,
-      "likes": 11,
-      "replies": 0,
-      "reposts": 0,
-      "quotes": 0,
-      "engagement_rate": 1.93,
-      "last_synced": "2026-06-28T19:00:13.840Z",
+      "last_synced": "2026-06-29T19:00:14.542Z",
       "is_suspect": null
     }
   ],
   "user_insights": [
-    {
-      "date": "2026-06-05T16:00:00.000Z",
-      "followers_count": 6416,
-      "views_total": 368824,
-      "likes_total": 7684,
-      "replies_total": 1351,
-      "reposts_total": 67,
-      "quotes_total": 14,
-      "posts_count": 100
-    },
     {
       "date": "2026-06-06T16:00:00.000Z",
       "followers_count": 6418,
@@ -1803,54 +1793,57 @@
       "reposts_total": 53,
       "quotes_total": 11,
       "posts_count": 100
+    },
+    {
+      "date": "2026-06-29T16:00:00.000Z",
+      "followers_count": 6341,
+      "views_total": 351173,
+      "likes_total": 7426,
+      "replies_total": 1315,
+      "reposts_total": 53,
+      "quotes_total": 12,
+      "posts_count": 100
     }
   ],
   "monthly_trends": [
     {
       "year_month": "2026-05-31T16:00:00.000Z",
-      "posts": 26,
-      "total_views": 50115,
-      "total_likes": 562,
-      "total_replies": 75,
+      "posts": 30,
+      "total_views": 53257,
+      "total_likes": 570,
+      "total_replies": 82,
       "total_reposts": 5,
-      "total_quotes": 0,
-      "avg_engagement_rate": 1.28,
+      "total_quotes": 1,
+      "avg_engagement_rate": 1.24,
       "top_post_id": "18067605611429147",
-      "top_post_views": 28465
+      "top_post_views": 28469
     },
     {
       "year_month": "2026-04-30T16:00:00.000Z",
       "posts": 43,
-      "total_views": 199844,
-      "total_likes": 5633,
+      "total_views": 199846,
+      "total_likes": 5641,
       "total_replies": 824,
       "total_reposts": 37,
       "total_quotes": 10,
-      "avg_engagement_rate": 3.25,
+      "avg_engagement_rate": 3.26,
       "top_post_id": "18109461583860501",
       "top_post_views": 55578
     },
     {
       "year_month": "2026-03-31T16:00:00.000Z",
-      "posts": 28,
-      "total_views": 67494,
-      "total_likes": 1248,
+      "posts": 25,
+      "total_views": 66133,
+      "total_likes": 1211,
       "total_replies": 335,
       "total_reposts": 11,
       "total_quotes": 1,
       "avg_engagement_rate": 2.36,
       "top_post_id": "18003244775877822",
-      "top_post_views": 28482
+      "top_post_views": 28484
     }
   ],
   "recent_sync_log": [
-    {
-      "timestamp": "2026-06-19T19:49:56.675Z",
-      "action": "full_sync",
-      "status": "partial_sync_warning",
-      "message": "同步 100 篇貼文，耗時 83 秒，Repo 已更新",
-      "suspect_count": 4
-    },
     {
       "timestamp": "2026-06-20T19:49:51.672Z",
       "action": "full_sync",
@@ -1909,6 +1902,13 @@
     },
     {
       "timestamp": "2026-06-27T19:01:05.975Z",
+      "action": "full_sync",
+      "status": "partial_sync_warning",
+      "message": "同步 100 篇貼文，耗時 58 秒，Repo 已更新",
+      "suspect_count": 3
+    },
+    {
+      "timestamp": "2026-06-28T19:01:06.132Z",
       "action": "full_sync",
       "status": "partial_sync_warning",
       "message": "同步 100 篇貼文，耗時 58 秒，Repo 已更新",
